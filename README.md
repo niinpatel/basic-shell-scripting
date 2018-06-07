@@ -49,3 +49,13 @@ To run the script, clone into the repo and then type the following command on th
 This should start the script. To end it, you can just close the terminal.
 
 
+To run the script, clone into the repo and then type the following command on the terminal: 
+
+
+
+    ./simplebash.sh
+    
+    
+This should start the script. To end it, you can just close the terminal.
+
+
