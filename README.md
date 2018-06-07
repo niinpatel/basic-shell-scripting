@@ -13,17 +13,17 @@ This program runs different steam locomotives continuously on your terminal.
 __Use of :__ 
 
 
-* if then statements
-* dpkg command
-* while loop
-* switch case
-* variable declaration
-* random numbers generation. 
+* [if then statements](https://www.tutorialspoint.com/unix/if-elif-statement.htm) 
+* [dpkg commands](https://linuxconfig.org/how-to-test-for-installed-package-using-shell-script-on-ubuntu-and-debian) 
+* [while loop](https://www.tutorialspoint.com/unix/while-loop.htm) 
+* [switch esac](https://www.tutorialspoint.com/unix/case-esac-statement.htm)
+* [variable declaration](https://www.tutorialspoint.com/unix/unix-using-variables.htm)
+* [random numbers generation.](https://blog.eduonix.com/shell-scripting/generating-random-numbers-in-linux-shell-scripting/) 
 
 
 __What it does.__ 
 
-This is the basic shell scripting program which contains basic programming commands like if statements, while loop, switch case and more. 
+This is the basic shell scripting program which contains basic programming commands like *if statements*, *while loop*, *switch case* and more. 
 
 Here's the brief explanation of what is happening. 
 
@@ -47,15 +47,3 @@ To run the script, clone into the repo and then type the following command on th
     
     
 This should start the script. To end it, you can just close the terminal.
-
-
-To run the script, clone into the repo and then type the following command on the terminal: 
-
-
-
-    ./simplebash.sh
-    
-    
-This should start the script. To end it, you can just close the terminal.
-
-
